@@ -1,0 +1,460 @@
+body{
+	background-color: #2c3e50;
+	margin-bottom: 0px;
+	
+}
+
+/* styles the white page in the background */
+.page {
+	border: solid, white;
+	background-color: white;
+	width: 1200px;
+	height: 2000px;
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+	left: 75px;
+	margin: 0 auto;
+}
+
+/* styles the heading "Experience. Variety." */
+.heading h1 {
+	color: #2c3e50;
+	font-family: 'Raleway';
+	position: absolute;
+	top: 45px;
+	left: 350px;
+	font-size: 48px;
+	letter-spacing: 4px;
+}
+
+/* styles the first line just underneath REACH */
+#firstline {
+	width: 1000px;
+	position: absolute;
+	top: 175px;
+	left: 100px;
+	border-width: 5px;
+}
+
+/* styles "Eastminster United Church" */
+.church h1 {
+	font-family: 'Quicksand';
+	font-size: 25px;
+	position: absolute;
+	top: 190px;
+	left: 55px;
+	letter-spacing: 4px;
+}
+
+/*styles "July 2017 - August 2017" */
+.church h2 {
+	font-family: 'Quicksand';
+	font-size: 25px;
+	position: absolute;
+	top: 186px;
+	left: 800px;
+	letter-spacing: 4px;
+}
+
+/* styles the image of Eastminster United Church */
+.church img {
+	position: absolute;
+	left: 25px;
+	top: 265px;
+	border: outset;
+}
+
+/* styles the wording inside Eastminster United Church */
+.church p {
+	font-family: 'Quicksand';
+	font-size: 18px;
+	position: absolute;
+	top: 240px;
+	left: 325px;
+	line-height: 30px;
+}
+
+#churchparagraph2 {
+	top: 305px;
+}
+
+#churchparagraph3 {
+	top: 460px;
+}
+
+/* styles the second line under Eastminster stuff */
+#secondline {
+	width: 1000px;
+	position: absolute;
+	top: 540px;
+	left: 100px;
+	border-width: 5px;
+}
+
+/* styles "alarmguard security sales" */
+.alarmguard h1 {
+	font-family: 'Quicksand';
+	font-size: 25px;
+	position: absolute;
+	top: 560px;
+	left: 55px;
+	letter-spacing: 4px;
+}
+
+/*styles "june 2017" */
+.alarmguard h2 {
+	font-family: 'Quicksand';
+	font-size: 25px;
+	position: absolute;
+	top: 556px;
+	left: 1005px;
+	letter-spacing: 4px;
+}
+
+/* styles the alarmguard symbol */
+.alarmguard img {
+	position: absolute;
+	top: 620px;
+	left: 25px;
+	border: outset;
+}
+
+/* styles wording for alarmguard job */
+.alarmguard p {
+	font-family: 'Quicksand';
+	font-size: 18px;
+	position: absolute;
+	top: 595px;
+	left: 325px;
+	line-height: 30px;
+}
+
+#alarmguardp2 {
+	top: 660px;
+}
+
+#thirdline {
+	width: 1000px;
+	position: absolute;
+	top: 840px;
+	left: 100px;
+	border-width: 5px;
+}
+
+/* styles the heading "Hatch Canada" */
+.hatch h1 {
+	font-family: 'Quicksand';
+	font-size: 25px;
+	position: absolute;
+	top: 860px;
+	left: 55px;
+	letter-spacing: 4px;
+}
+
+/* styles April 2017-June 2017 */
+.hatch h2 {
+	font-family: 'Quicksand';
+	font-size: 25px;
+	position: absolute;
+	top: 856px;
+	left: 820px;
+	letter-spacing: 4px;
+}
+
+/* styles the Hatch Canada icon */
+.hatch img {
+	position: absolute;
+	top: 925px;
+	left:25px;
+	border: outset;
+}
+
+/* styles the wording for Hatch Canada */
+.hatch p {
+	font-family: 'Quicksand';
+	font-size: 18px;
+	position: absolute;
+	top: 900px;
+	left: 325px;
+	line-height: 30px;
+}
+
+/* styles the second paragraph in hatch */
+#hatchp2 {
+	top: 1025px;
+}
+
+#fourthline {
+	width: 1000px;
+	position: absolute;
+	top: 1190px;
+	left: 100px;
+	border-width: 5px;
+}
+
+/* styles the heading CNE BLC Foodtruck team member */
+.cne h1 {
+	font-family: 'Quicksand';
+	font-size: 25px;
+	position: absolute;
+	top: 1210px;
+	left: 55px;
+	letter-spacing: 4px;
+}
+
+/* styles August 2016 */
+.cne h2 {
+	font-family: 'Quicksand';
+	font-size: 25px;
+	position: absolute;
+	top: 1206px;
+	left: 975px;
+	letter-spacing: 4px;
+}
+
+/* styles the cne logo */
+.cne img {
+	position: absolute;
+	top: 1285px;
+	left: 25px;
+	border: outset;
+}
+
+/* styles the wording under the cne title */
+.cne p {
+	font-family: 'Quicksand';
+	font-size: 18px;
+	position: absolute;
+	top: 1260px;
+	left: 325px;
+	line-height: 30px;
+}
+
+#cnep2 {
+	top: 1355px;
+}
+
+#fifthline {
+	width: 1000px;
+	position: absolute;
+	top: 1515px;
+	left: 100px;
+	border-width: 5px;
+}
+
+/*styles Nick's No Frills */
+.nofrills h1 {
+	font-family: 'Quicksand';
+	font-size: 25px;
+	position: absolute;
+	top: 1535px;
+	left: 55px;
+	letter-spacing: 4px;
+}
+
+/* styles november 2015 - march 2016 */
+.nofrills h2 {
+	font-family: 'Quicksand';
+	font-size: 25px;
+	position: absolute;
+	top: 1531px;
+	left: 720px;
+	letter-spacing: 4px;
+}
+
+/* styles the no frills logo */
+.nofrills img {
+	position: absolute;
+	top: 1610px;
+	left: 25px;
+	border: outset;
+}
+
+/* styles the paragraphs under no frills */
+.nofrills p {
+	font-family: 'Quicksand';
+	font-size: 18px;
+	position: absolute;
+	top: 1585px;
+	left: 325px;
+	line-height: 30px;
+}
+
+/* styles the second paragraph of no frills */
+#nofrillsp2 {
+	top: 1680px;
+}
+
+/* The next three style the toolbar */
+.toolbar ul {
+	padding: 0;
+	list-style-type: none;
+	margin: 0;
+	position: absolute;
+	top: 20px;
+	left: 40px;
+	width: 95%;
+	letter-spacing: 4px;
+}
+
+.toolbar li {
+	float: left;
+}
+
+.toolbar a {
+	font-family: "Open Sans";
+	text-align: center;
+	color: black;
+	padding: 20px 50px;
+	font-size: 17px;
+	text-decoration: none;
+}
+
+/*styles the main gray section of the bottom toolbar*/
+.bottomtoolbar {
+	border: solid black;
+	background-color: black;
+	width: 1343px;
+	position: absolute;
+	left: -75px;
+	top: 1855px;
+	height: 200px;
+}
+
+/*styles the wording "connect"*/
+.title {
+	color: white;
+	font-family: "Spectral" ;
+	font-size: 15px;
+	position: absolute;
+	bottom: 110px;
+	left: 600px;
+	text-align: center;
+	font-weight: 100;
+}
+
+/*styles the wording "facebook"*/
+.facebook a {
+	position: absolute;
+	left: 562px;
+	bottom: 15px;
+}
+
+/*styles the wording "instagram"*/
+.instagram a {
+	position: absolute;
+	left: 610px;
+	bottom: 7px;
+}
+
+/*styles the wording "twitter"*/
+.twitter a {
+	position: absolute;
+	left: 674px;
+	bottom: 17px;
+}
+
+/*styles the wording "Gmail"*/
+.gmail a {
+	position: absolute;
+	left: 727px;
+	bottom: 17px;
+}
+
+/*styles the line before the first line*/
+.zeroline hr {
+	width: 1324px;
+	color: white;
+	position: absolute;
+	top: -101px;
+	left: -604px;
+	border-width: 13px;
+}
+
+/*styles the first line*/
+.firstline hr {
+	width: 475px;
+	position: absolute;
+	left: -169px;
+	color: white;
+	top: -50px;
+}
+
+/*styles the second line*/
+.secondline hr {
+	width: 475px;
+	position: absolute;
+	left: 432px;
+	color: white;
+	top: 85px
+}
+
+.title h1 {
+	font-family: "Open Sans";
+	font-size: 22px;
+	color: white;
+	position: absolute;
+	left: -4px;
+	top: -50px;
+	letter-spacing: 8px;
+}
+
+/*The next three style the toolbar within the bottomtoolbar*/
+.toptoolbarwithin ul {
+	padding: 0;
+	margin: 0;
+	position: absolute;
+	left: 20px;
+	top: 41px;
+	width: 15%;
+	list-style-type: none;
+	letter-spacing: 3px;
+	line-height: 28px;
+}
+
+.toptoolbarwithin a {
+	font-family: "Open Sans";
+	text-align: center;
+	color: white;
+	font-size: 15px;
+	text-decoration: none;
+}
+
+/* styling for the search bar */
+input[type=text] {
+	width: 130px;
+	-webkit-transition: width 0.4s ease-in-out;
+	transition: width 0.4s ease-in-out;
+	position: relative;
+	left: 1139px;
+	top: 47px;
+}
+
+/* Styling for "Content" in copyright section */
+.copyright h1 {
+	font-family: 'Open Sans';
+	font-size: 11px;
+	position: absolute;
+	color: white;
+	top: 149px;
+	left: 1022px;
+}
+
+/* styles the 2017 Nathan Koo. All Rights Reserved */
+.copyright h2 {
+	font-family: 'Open Sans';
+	font-size: 11px;
+	position: absolute;
+	color: white;
+	top: 147px;
+	left: 1083px;
+}
+
+/* styles the copyright icon */
+.copyright img {
+	position: relative;
+	top: 156px;
+	left: 1063px;
+	color: white;
+}

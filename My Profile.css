@@ -1,0 +1,311 @@
+body{
+	background-color: #2c3e50;
+	margin-bottom: 0px;
+}
+
+/* Professionaly Simple */
+.main {
+	font-family: 'Raleway';
+	position: relative;
+	text-align: center;
+	color: #2c3e50;
+	top: 40px;
+	font-size: 36px;
+}
+
+/* Styles the 'white page' so everything */
+.page {
+	border: solid, white;
+	background-color: white;
+	width: 1200px;
+	height: 1610px;
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+	left: 75px;
+	margin: 0 auto;
+}
+
+/* The next three style the toolbar */
+.toolbar ul {
+	padding: 0;
+	list-style-type: none;
+	margin: 0;
+	position: absolute;
+	top: 20px;
+	left: 40px;
+	width: 95%;
+	letter-spacing: 4px;
+}
+
+.toolbar li {
+	float: left;
+}
+
+.toolbar a {
+	font-family: "Open Sans";
+	text-align: center;
+	color: black;
+	padding: 20px 50px;
+	font-size: 17px;
+	text-decoration: none;
+}
+
+/* styling for Summary of Qualifications */
+.firstfirsttitle {
+	font-family: 'Quicksand';
+	position: relative;
+	left: 50px;
+	top: 20px;
+}
+
+/* List of skills below summary of qualifications */
+.firstsecondlist {
+	font-family: 'Quicksand';
+	position: relative;
+	left: 50px;
+	top: 10px;
+	line-height: 30px;
+}
+
+/* styles the image of the hyperloop */
+.image img {
+	position: absolute;
+	top: 210px;
+	left: 630px;
+	border: outset;
+}
+
+/* Styles 'Education' */
+.education h1 {
+	font-family: 'Quicksand';
+	font-size: 32px;
+	position: relative;
+	top: 20px;
+	left: 50px;
+}
+
+/* styles the paragraph detailing my education */
+.education p {
+	font-family: 'Quicksand';
+	font-size: 18px;
+	position: relative;
+	top: 10px;
+	left: 50px;
+	line-height: 30px;
+}
+
+/* styles 'Career Aspirations' */
+.careeraspirations h1 {
+	font-family: 'Quicksand';
+	font-size: 32px;
+	position: relative;
+	top: 20px;
+	left: 50px;
+}
+
+/* styles my short term goals paragraph */
+.careeraspirations p {
+	font-family: 'Quicksand';
+	font-size: 18px;
+	position: relative;
+	top: 10px;
+	left: 50px;
+	line-height: 30px;
+}
+
+/*styles the link for Velocity 25K Competition (no hyperlink line) */
+.careeraspirations a{
+	text-decoration: none;
+}
+
+/* styles "technology and coding" */
+.technology h1 {
+	font-family: 'Quicksand';
+	font-size: 32px;
+	position: relative;
+	top: 20px;
+	left: 50px;
+}
+
+/* styles the paragraphs under technology */
+.technology p {
+	font-family: 'Quicksand';
+	font-size: 18px;
+	position: relative;
+	top: 10px;
+	left: 50px;
+	line-height: 30px;
+}
+
+/*styles the link under technology in one of its paragraphs */
+.technology a {
+	text-decoration: none;
+}
+
+/*styles 'Interests & Hobbies' */
+.interesthobby h1 {
+	font-family: 'Quicksand';
+	font-size: 32px;
+	position: relative;
+	top: 20px;
+	left: 50px;
+}
+
+/* Styles the paragraphs under interests & hobbies */
+.interesthobby p {
+	font-family: 'Quicksand';
+	font-size: 18px;
+	position: relative;
+	top: 10px;
+	left: 50px;
+	line-height: 30px;
+}
+
+/*styles the main gray section of the bottom toolbar*/
+.bottomtoolbar {
+	border: solid black;
+	background-color: black;
+	width: 1343px;
+	position: absolute;
+	left: -75px;
+	top: 1560px;
+	height: 200px;
+}
+
+/*styles the wording "connect"*/
+.title {
+	color: white;
+	font-family: "Spectral" ;
+	font-size: 15px;
+	position: absolute;
+	bottom: 110px;
+	left: 600px;
+	text-align: center;
+	font-weight: 100;
+}
+
+/*styles the image for "facebook"*/
+.facebook a {
+	position: absolute;
+	left: 562px;
+	bottom: 15px;
+}
+
+/*styles the image for "instagram"*/
+.instagram a {
+	position: absolute;
+	left: 610px;
+	bottom: 7px;
+}
+
+/*styles the image for "twitter"*/
+.twitter a {
+	position: absolute;
+	left: 674px;
+	bottom: 17px;
+}
+
+/*styles the image for "Gmail"*/
+.gmail a {
+	position: absolute;
+	left: 727px;
+	bottom: 17px;
+}
+
+/*styles the line before the first line*/
+.zeroline hr {
+	width: 1323px;
+	color: white;
+	position: absolute;
+	top: -101px;
+	left: -605px;
+	border-width: 13px;
+}
+
+/*styles the first line*/
+.firstline hr {
+	width: 475px;
+	position: absolute;
+	left: -169px;
+	color: white;
+	top: -50px;
+}
+
+/*styles the second line*/
+.secondline hr {
+	width: 475px;
+	position: absolute;
+	left: 432px;
+	color: white;
+	top: 85px
+}
+
+.title h1 {
+	font-family: "Open Sans";
+	font-size: 22px;
+	color: white;
+	position: absolute;
+	left: -4px;
+	top: -50px;
+	letter-spacing: 8px;
+}
+
+/*The next three style the toolbar within the bottomtoolbar*/
+.toptoolbarwithin ul {
+	padding: 0;
+	margin: 0;
+	position: absolute;
+	left: 20px;
+	top: 41px;
+	width: 14%;
+	list-style-type: none;
+	letter-spacing: 3px;
+	line-height: 28px;
+}
+
+.toptoolbarwithin a {
+	font-family: "Open Sans";
+	text-align: center;
+	color: white;
+	font-size: 15px;
+	text-decoration: none;
+}
+
+/* styling for the search bar */
+input[type=text] {
+	width: 130px;
+	-webkit-transition: width 0.4s ease-in-out;
+	transition: width 0.4s ease-in-out;
+	position: relative;
+	left: 1139px;
+	top: 47px;
+}
+
+/* Styling for "Content" in copyright section */
+.copyright h1 {
+	font-family: 'Open Sans';
+	font-size: 11px;
+	position: absolute;
+	color: white;
+	top: 148px;
+	left: 1022px;
+}
+
+/* styles the 2017 Nathan Koo. All Rights Reserved */
+.copyright h2 {
+	font-family: 'Open Sans';
+	font-size: 11px;
+	position: absolute;
+	color: white;
+	top: 147px;
+	left: 1083px;
+}
+
+/* styles the copyright icon */
+.copyright img {
+	position: absolute;
+	top: 156px;
+	left: 1064px;
+	color: white;
+}
